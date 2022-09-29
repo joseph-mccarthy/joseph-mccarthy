@@ -1,6 +1,6 @@
-# Hi there 👋
+![Header](./header.png)
 
-👨‍💻  **Whoami:**
+🧐 **Whoami:**
 <p>
 <samp>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris pellentesque pulvinar pellentesque habitant. Quis viverra nibh cras pulvinar mattis nunc. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit duis. Imperdiet massa tincidunt nunc pulvinar. Dui id ornare arcu odio ut sem nulla pharetra diam. Ultricies integer quis auctor elit sed. Id nibh tortor id aliquet lectus proin. Vestibulum lorem sed risus ultricies tristique nulla aliquet enim tortor. Egestas sed tempus urna et pharetra. Sit amet dictum sit amet justo. Consequat id porta nibh venenatis cras sed felis eget velit.
