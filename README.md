@@ -32,10 +32,10 @@ Other        44 mins         █▒░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 📅 **hobbies:**
-- Hobby
-- Hobby
-- Hobby
-- Hobby
+- Coding
+- Photography
+- Trains
+- Walking
 
 :memo: **recent blog posts:**
 <!-- SPUD_POSTS:START -->
