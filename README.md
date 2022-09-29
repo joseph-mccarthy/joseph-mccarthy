@@ -50,11 +50,9 @@ Other        44 mins         █▒░░░░░░░░░░░░░░░
 </br>
 </br>
 <div align="center">
-<a href="https://github.com/joseph-mccarthy/hugo-bootstrap-freelancer-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-mccarthy&repo=hugo-bootstrap-freelancer-template&theme=buefy" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;  
-<a href="https://github.com/joseph-mccarthy/internet-monitor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-mccarthy&repo=internet-monitor&theme=buefy" />
-</a>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joseph-mccarthy&repo=internet-monitor)](https://github.com/joseph-mccarthy/internet-monitor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joseph-mccarthy&repo=hugo-bootstrap-freelancer-template)](https://github.com/joseph-mccarthy/hugo-bootstrap-freelancer-template)
+
   </div>
+
