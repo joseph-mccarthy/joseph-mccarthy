@@ -7,6 +7,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </samp>
 </p>
 
+🌱 **latest projects:**
+<!-- SPUD_PROJECTS:START -->
+
+<!-- SPUD_PROJECTS:END -->
+
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
@@ -19,6 +24,10 @@ Other        44 mins         █▒░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 📅 **hobbies:**
+- Hobby
+- Hobby
+- Hobby
+- Hobby
 
 :memo: **recent blog posts:**
 <!-- SPUD_POSTS:START -->
