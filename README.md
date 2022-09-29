@@ -9,7 +9,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 🌱 **latest projects:**
 <!-- SPUD_PROJECTS:START -->
-
+- [Hugo Freelance](https://joemccarthy.co.uk/projects/hugo-freelance/)
+- [Internet Monitor](https://joemccarthy.co.uk/projects/internet-monitor/)
 <!-- SPUD_PROJECTS:END -->
 
 📊 **this week i spent my time on:**
