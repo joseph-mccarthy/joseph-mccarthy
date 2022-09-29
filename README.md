@@ -13,7 +13,7 @@ Other        44 mins         █▒░░░░░░░░░░░░░░░
 
 📅 **hobbies:**
 
-📖 **recent blog posts:**
+:memo: **recent blog posts:**
 <!-- SPUD_POSTS:START -->
 - [Free Lancer in Themes Library](https://joemccarthy.co.uk/posts/free-lancer-in-themes-library/)
 - [Harlow Bindicator](https://joemccarthy.co.uk/posts/harlow-bindicator/)
@@ -21,3 +21,10 @@ Other        44 mins         █▒░░░░░░░░░░░░░░░
 - [Raspberry Pi 400](https://joemccarthy.co.uk/posts/pi-400/)
 - [Pi Shopping](https://joemccarthy.co.uk/posts/pi-shopping/)
 <!-- SPUD_POSTS:END -->
+
+:abacus: **top repositories:**
+</br>
+</br>
+<a href="https://github.com/joseph-mccarthy/hugo-bootstrap-freelancer-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-mccarthy&repo=hugo-bootstrap-freelancer-template&theme=buefy" />
+</a>
