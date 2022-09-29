@@ -7,10 +7,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </samp>
 </p>
 
+:hourglass_flowing_sand: **currently working on:**
+<!-- SPUD_WORKING_ON:START -->
+
+<!-- SPUD_WORKING_ON:END -->
+
 🌱 **latest projects:**
 <!-- SPUD_PROJECTS:START -->
-- [Hugo Freelance](https://joemccarthy.co.uk/projects/hugo-freelance/)
-- [Internet Monitor](https://joemccarthy.co.uk/projects/internet-monitor/)
+
 <!-- SPUD_PROJECTS:END -->
 
 📊 **this week i spent my time on:**
@@ -32,11 +36,7 @@ Other        44 mins         █▒░░░░░░░░░░░░░░░
 
 :memo: **recent blog posts:**
 <!-- SPUD_POSTS:START -->
-- [Free Lancer in Themes Library](https://joemccarthy.co.uk/posts/free-lancer-in-themes-library/)
-- [Harlow Bindicator](https://joemccarthy.co.uk/posts/harlow-bindicator/)
-- [New Project Light Meter Py](https://joemccarthy.co.uk/posts/new-project-light-meter-py/)
-- [Raspberry Pi 400](https://joemccarthy.co.uk/posts/pi-400/)
-- [Pi Shopping](https://joemccarthy.co.uk/posts/pi-shopping/)
+
 <!-- SPUD_POSTS:END -->
 
 :abacus: **top repositories:**
