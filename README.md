@@ -9,7 +9,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 :hourglass_flowing_sand: **currently working on:**
 <!-- SPUD_WORKING_ON:START -->
-
+- [Night Sky Pi Devlog](https://joemccarthy.co.uk/devlogs/night-sky-pi/)
+- [Lightmeter Py](https://joemccarthy.co.uk/devlogs/lightmeter-py/)
+- [Hugo Freelance Devlog](https://joemccarthy.co.uk/devlogs/hugo-freelance/)
 <!-- SPUD_WORKING_ON:END -->
 
 🌱 **latest projects:**
