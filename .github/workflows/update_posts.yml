@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-posts:
+    name: Update Readme with latest posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -16,4 +16,15 @@ jobs:
           comment_tag_name: "SPUD_POSTS"
           feed_list: "https://www.joemccarthy.co.uk/posts/feed.xml"
           commit_message: "Update blog posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+  update-projects:
+    name: update Redme with latest projects
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "SPUD_PROJECTS"
+          feed_list: "https://www.joemccarthy.co.uk/projects/feed.xml"
+          commit_message: "Update blog projects"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
