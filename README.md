@@ -53,6 +53,7 @@ Other        44 mins         █▒░░░░░░░░░░░░░░░
 <a href="https://github.com/joseph-mccarthy/hugo-bootstrap-freelancer-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-mccarthy&repo=hugo-bootstrap-freelancer-template&theme=buefy" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;  
 <a href="https://github.com/joseph-mccarthy/internet-monitor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-mccarthy&repo=internet-monitor&theme=buefy" />
 </a>
