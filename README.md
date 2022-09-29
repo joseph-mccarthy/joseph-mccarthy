@@ -11,6 +11,8 @@ Other        44 mins         █▒░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+📅 **hobbies:**
+
 📖 **recent blog posts:**
 <!-- SPUD_POSTS:START -->
 - [Free Lancer in Themes Library](https://joemccarthy.co.uk/posts/free-lancer-in-themes-library/)
