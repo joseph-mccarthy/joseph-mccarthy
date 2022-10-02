@@ -24,10 +24,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <!--START_SECTION:waka-->
 
 ```text
-Python     4 hrs 45 mins   ████████████████▒░░░░░░░░   65.21 %
-Markdown   2 hrs 29 mins   ████████▓░░░░░░░░░░░░░░░░   34.10 %
-Text       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python     2 hrs 45 mins   █████████████▒░░░░░░░░░░░   52.77 %
+Markdown   2 hrs 27 mins   ███████████▓░░░░░░░░░░░░░   47.11 %
+TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
