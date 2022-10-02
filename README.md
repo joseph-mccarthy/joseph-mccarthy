@@ -7,9 +7,9 @@ Hi there, I’m Joseph McCarthy. I’m a full time developer, but in my spare ti
 
 :hourglass_flowing_sand: **currently working on:**
 <!-- SPUD_WORKING_ON:START -->
-- [Night Sky Pi Devlog](https://joemccarthy.co.uk/devlogs/night-sky-pi/)
-- [Lightmeter Py](https://joemccarthy.co.uk/devlogs/lightmeter-py/)
-- [Hugo Freelance Devlog](https://joemccarthy.co.uk/devlogs/hugo-freelance/)
+- [Night Sky Pi Devlog](https://joseph-mccarthy.github.io/devlogs/night-sky-pi/)
+- [Lightmeter Py](https://joseph-mccarthy.github.io/devlogs/lightmeter-py/)
+- [Hugo Freelance Devlog](https://joseph-mccarthy.github.io/devlogs/hugo-freelance/)
 <!-- SPUD_WORKING_ON:END -->
 
 🌱 **latest projects:**
