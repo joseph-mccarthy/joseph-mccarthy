@@ -38,11 +38,11 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 :memo: **recent blog posts:**
 <!-- SPUD_POSTS:START -->
-- [Python Simple MQTT](https://joemccarthy.co.uk/posts/python-simple-mqtt/)
-- [Free Lancer in Themes Library](https://joemccarthy.co.uk/posts/free-lancer-in-themes-library/)
-- [Harlow Bindicator](https://joemccarthy.co.uk/posts/harlow-bindicator/)
-- [New Project Light Meter Py](https://joemccarthy.co.uk/posts/new-project-light-meter-py/)
-- [Raspberry Pi 400](https://joemccarthy.co.uk/posts/pi-400/)
+- [Python Simple MQTT](https://joseph-mccarthy.github.io/posts/python-simple-mqtt/)
+- [Free Lancer in Themes Library](https://joseph-mccarthy.github.io/posts/free-lancer-in-themes-library/)
+- [Harlow Bindicator](https://joseph-mccarthy.github.io/posts/harlow-bindicator/)
+- [New Project Light Meter Py](https://joseph-mccarthy.github.io/posts/new-project-light-meter-py/)
+- [Raspberry Pi 400](https://joseph-mccarthy.github.io/posts/pi-400/)
 <!-- SPUD_POSTS:END -->
 
 :abacus: **top repositories:**
