@@ -22,8 +22,8 @@ Hi there, I’m Joseph McCarthy. I’m a full time developer, but in my spare ti
 <!--START_SECTION:waka-->
 
 ```text
-Python     3 hrs 46 mins   ████████████████░░░░░░░░░   63.49 %
-Markdown   2 hrs 9 mins    █████████░░░░░░░░░░░░░░░░   36.39 %
+Python     3 hrs 46 mins   █████████████████░░░░░░░░   67.96 %
+Markdown   1 hr 46 mins    ████████░░░░░░░░░░░░░░░░░   31.90 %
 TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
