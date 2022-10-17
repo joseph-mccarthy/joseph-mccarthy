@@ -28,14 +28,3 @@ jobs:
           feed_list: "https://joseph-mccarthy.github.io/projects/feed.xml"
           commit_message: "Update blog projects"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
-  update-devlogs:
-    name: update Redme with latest developer logs
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "SPUD_WORKING_ON"
-          feed_list: "https://joseph-mccarthy.github.io/devlogs/feed.xml"
-          commit_message: "Update blog devlogs"
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
