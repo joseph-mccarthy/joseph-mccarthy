@@ -14,8 +14,8 @@ Hi there, I’m Joseph McCarthy. I’m a full time developer, but in my spare ti
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   49 mins         ███████████████████░░░░░░   75.42 %
-HTML       16 mins         ██████░░░░░░░░░░░░░░░░░░░   24.58 %
+Markdown   1 hr 19 mins    ████████████████████▓░░░░   83.09 %
+HTML       16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
 ```
 
 <!--END_SECTION:waka-->
