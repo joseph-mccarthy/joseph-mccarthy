@@ -28,11 +28,11 @@ HTML       16 mins         ████▒░░░░░░░░░░░░�
 
 :memo: **recent blog posts:**
 <!-- SPUD_POSTS:START -->
+- [Network Domain and Nginx](https://joseph-mccarthy.github.io/posts/network-domain-and-nginx/)
 - [Python Simple MQTT](https://joseph-mccarthy.github.io/posts/python-simple-mqtt/)
 - [Free Lancer in Themes Library](https://joseph-mccarthy.github.io/posts/free-lancer-in-themes-library/)
 - [Harlow Bindicator](https://joseph-mccarthy.github.io/posts/harlow-bindicator/)
 - [New Project Light Meter Py](https://joseph-mccarthy.github.io/posts/new-project-light-meter-py/)
-- [Raspberry Pi 400](https://joseph-mccarthy.github.io/posts/pi-400/)
 <!-- SPUD_POSTS:END -->
 
 :abacus: **top repositories:**
