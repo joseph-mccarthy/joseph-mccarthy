@@ -6,6 +6,7 @@ Hi there, I’m Joseph McCarthy. I’m a full time developer, but in my spare ti
 
 🌱 **latest projects:**
 <!-- SPUD_PROJECTS:START -->
+- [MQTT Internet Speed Test](https://joseph-mccarthy.github.io/projects/mqtt-internet-speed-test/)
 - [Hugo Freelance](https://joseph-mccarthy.github.io/projects/hugo-freelance/)
 - [Internet Monitor](https://joseph-mccarthy.github.io/projects/internet-monitor/)
 <!-- SPUD_PROJECTS:END -->
